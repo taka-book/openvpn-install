@@ -25,6 +25,16 @@ Then run it:
 ./openvpn-install.sh
 ```
 
+Easily step to Run this Scripte
+
+Adding a New User. 
+```newuser
+cd openvpn-install
+./openvpn-install.sh
+```
+
+
+
 You need to run the script as root and have the TUN module enabled.
 
 The first time you run it, you'll have to follow the assistant and answer a few questions to setup your VPN server.
